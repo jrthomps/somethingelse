@@ -1,1 +1,2 @@
 My name is John, I am learning how to use Git
+Software Carpentry Workshop 2015
